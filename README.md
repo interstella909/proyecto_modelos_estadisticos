@@ -1,4 +1,4 @@
-# 📊 Probabilidad y Estadística - Notebooks Interactivos
+# 📊 Modelos Estadísticos
 
 Este repositorio contiene una serie de notebooks interactivos desarrollados como material de estudio y referencia en el área de **probabilidad** y **estadística inferencial**, utilizando ejemplos prácticos en **Python**.
 
